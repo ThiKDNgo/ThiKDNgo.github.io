@@ -1,0 +1,61 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color:  white;
+  font-family: 'Comic Sans', sans-serif;
+}
+
+
+.navbar-brand{
+  font-size: 35px;
+  color: black;
+  padding-left: 25px;
+  font-weight: bold;
+}
+
+.navbar-brand:hover{
+	color: red;
+}
+
+.navbar-nav > li > a:hover > .glyphicon {
+  color: red;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.glyphicon{
+	font-size: 30px;
+	color:white; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: lightblue;
+}
+.text-center{
+	font-size: 35px;
+	font-family: 'Comic Sans', sans-serif;
+	color: red;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Comic Sans', sans-serif;
+};
+
+}
+#myNavbar ul li a {
+	color: #C0C0C0
+}
+
+
+
